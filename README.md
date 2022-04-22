@@ -1,23 +1,13 @@
-### Hi there 👋
 
-<!--
-**jmsmkn/jmsmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm Dr. James Meakin.<br>
+👷‍♂️ Currently, I work as a Research Software Engineer in Healthcare where I lead a team developing [grand-challenge.org](https://grand-challenge.org).<br>
+👨‍💻 My focus is on Backend Web Development (especially Django and Postgres) and MLOps (on AWS in particular).<br>
+🏡 I live in Rotterdam, the Netherlands, with my partner and our two cats.<br>
+🎹 I enjoy playing the piano, kayaking and cycling.<br>
 
-Here are some ideas to get you started:
+## Talks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm James. 
-I live in Rotterdam, the Netherlands, with my partner and our two cats.
-Currently, I work as a Research Software Engineer in Healthcare and enjoy backend web development and MLOps.
+[AWS Summit Brussels 2022: Build and scale containerized applications on AWS](https://youtu.be/_g6Sy-u6axQ)
 
 ## Blog Posts
 
