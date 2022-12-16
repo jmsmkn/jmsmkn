@@ -11,6 +11,7 @@
 
 ## Blog Posts
 
+[Grand Challenge on Amazon HealthLake Imaging at RSNA 2022](https://grand-challenge.org/blogs/rsna-2022/)
 [How to build a global, scalable, low-latency, and secure machine learning medical imaging analysis platform on AWS](https://aws.amazon.com/blogs/industries/how-to-build-a-global-scalable-low-latency-and-secure-machine-learning-medical-imaging-analysis-platform-on-aws/)
 
 ## Get In Touch
