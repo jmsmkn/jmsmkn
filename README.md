@@ -3,7 +3,7 @@
 👷‍♂️ Currently, I work as a Research Software Engineer in Healthcare where I lead a team developing [grand-challenge.org](https://grand-challenge.org).<br>
 👨‍💻 My focus is on Backend Web Development (especially Django and Postgres) and MLOps (on AWS in particular).<br>
 🏡 I live in Rotterdam, the Netherlands, with my partner and our two cats.<br>
-🎹 I enjoy playing the piano, kayaking and running.<br>
+🎹 I enjoy playing the piano, running and reading.<br>
 
 ## Talks
 
